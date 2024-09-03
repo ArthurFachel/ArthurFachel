@@ -1,14 +1,14 @@
 [![MasterHead](https://i.pinimg.com/originals/9e/e6/41/9ee641ce331ab4fb6a1b73f52b5f467b.gif)]
 <h1 align="center">Hi 👋, I'm Arthur Fachel</h1>
-<h3 align="center">An 18-years old computer engineering enthusiast passionate about technology and coding</h3>
+<h3 align="center">An 18-years old hardware engineering enthusiast passionate about technology and coding</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-- 🔭 I’m currently working on **Hash Fuction**
+- 🔭 I’m currently working on Machine Learning
 
 - 📫 How to reach me **arthur.nunes6889@gmail.com**
 
-- 👯 I’m looking to collaborate on **A cybersecurity project**
+- 👯 I’m looking to collaborate on **A.I Projetcts**
 
-- 🌱 I’m currently learning **Keystroke logging**
+- 🌱 I’m currently learning **RAG**
 
 - 📄 Know about my experiences **https://www.linkedin.com/in/arthur-fachel-801218176/**
 
