@@ -1,5 +1,6 @@
 <h1 align="center"> Arthur Fachel</h1>
 - Contact me **arthur.nunes6889@gmail.com**
+
 - Know more about me: **https://www.linkedin.com/in/arthur-fachel-801218176/**
 
 <h3 align="left">Connect with me:</h3>
