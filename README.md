@@ -1,11 +1,6 @@
 <h1 align="center"> Arthur Fachel</h1>
-- 🔭 I’m currently working on Machine Learning
-
-- 📫 How to reach me **arthur.nunes6889@gmail.com**
-
-- 👯 I’m looking to collaborate on **A.I Projetcts**
-
-- 📄 Know about my experiences **https://www.linkedin.com/in/arthur-fachel-801218176/**
+- Contact me **arthur.nunes6889@gmail.com**
+- Know more about me: **https://www.linkedin.com/in/arthur-fachel-801218176/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
