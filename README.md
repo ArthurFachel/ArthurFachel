@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=ArthurFachel-ma&theme=onedark)](https://github.com/ArthurFachel/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ArthurFachel-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
