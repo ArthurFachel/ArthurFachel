@@ -1,1 +1,1 @@
-![trophy](https://github-profile-trophy.vercel.app/?username=nyx&v=1)
+![trophy](https://github-profile-trophy.vercel.app/?username=ArthurFachel&v=1)
