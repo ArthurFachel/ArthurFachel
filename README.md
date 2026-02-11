@@ -1,7 +1,7 @@
 ### GitHub Stats :
 
 <p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=ArthurFacheltheme=github_dark&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
+  <img src="https://yourinsights.vercel.app/api/insight?username=ArthurFachel&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
 </p>
 
 <div align=center> 
