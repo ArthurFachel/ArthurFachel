@@ -42,5 +42,5 @@ languages = {
     "Portuguese": "Native",
     "English":     "C2",
     "Finnish":     "B2",
-    "Spanish":      "B2"
+    "Spanish":     "B2"
 }
