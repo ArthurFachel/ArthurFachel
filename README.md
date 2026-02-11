@@ -1,4 +1,4 @@
-# Hi, I'm YOUR_USERNAME
+# Hi, I'm Arthur Fachel
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=arthurfachel&theme=onedark&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
@@ -14,4 +14,4 @@
 - Interests: open source, automation, systems
 
 ## Contact
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/Arthur Fachel
