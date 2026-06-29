@@ -1,46 +1,54 @@
-<h2 align="center">👋👋 Nice to see you</h2>
+<h2 align="center">Hiii, I'm Fachel!/h2>
+<p align="center">Data Science & AI student at PUCRS. Research assistant at MALTA-LAB working on LLMs and data visualization.</p>
 
-###
+---
 
-<h2 align="center">Data Science & Artificial Intelligence undergraduate Assistant at PUCRS </h2>
+### What I'm working on
 
-###
+- **Geoscience LLM benchmarks** — exploring how contextual grounding affects reasoning on geoscience tasks. Built a custom evaluation pipeline and tested it across four open-source LLMs. Paper accepted at BRACIS 2026.
+- **Brazil Literacy** — municipal-level analysis linking literacy rates, basic sanitation coverage, and school infrastructure across Brazil. Currently building an interactive dashboard with dedicated API endpoints per dimension.
+- **3D ASCII Profile Card** — CRT-styled terminal + interactive 3D ASCII renderer in vanilla JS to work as your own portfolio
+---
 
-<br clear="both">
+### Stack
 
-<div align="center">
-  <img height="300" src="https://ani-github.github.io/animegifs/full-metal-alchemist/AWESOME.gif"  />
-</div>
+**Data**
 
-###
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> Python</code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /> PyTorch</code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> Pandas</code>
 
-<br clear="both">
+**Backend**
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="pytorch logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="60" alt="flask logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="firebase logo"  />
-</div>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /> Flask</code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> MySQL</code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /> Firebase</code>
 
-###
+**Systems**
 
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> C</code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> Java</code>
 
-```python
-languages = {
-    "Portuguese": "Native",
-    "English":     "C2",
-    "Finnish":     "B2",
-    "Spanish":     "B2"
-}
+---
+
+### Papers
+
+- *The Role of Contextual Grounding in Geoscience Benchmarks* — BRACIS 2026  
+  [Cick here](https://github.com/ArthurFachel/Contextual-Grounding) · PUCRS / Petrobras / UNISINOS
+
+---
+
+### Languages
+
+| Language | Level |
+|---|---|
+| Portuguese | Native |
+| English | C2  |
+| Finnish | B2 |
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arthur-fachel-801218176">LinkedIn</a> ·
+  <a href="mailto:arthur.nunes6889@gmail.com">Email</a>
+</p>
