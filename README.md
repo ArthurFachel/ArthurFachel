@@ -1,5 +1,4 @@
-<h2 align="center">Hiii, I'm Fachel!/h2>
-<p align="center">Data Science & AI student at PUCRS. Research assistant at MALTA-LAB working on LLMs and data visualization.</p>
+<h2 align="center">Hiii, I'm Fachel!</h2>
 
 ---
 
