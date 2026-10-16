@@ -1,53 +1,31 @@
-<h2 align="center">Hiii, I'm Fachel!</h2>
+# Arthur Fachel
 
----
+Data Analytics student at PUCRS and researcher at MALTA Lab, Porto Alegre. I work on LLM evaluation and continual learning.
 
-### What I'm working on
+## Research
 
-- **Geoscience LLM benchmarks** — exploring how contextual grounding affects reasoning on geoscience tasks. Built a custom evaluation pipeline and tested it across four open-source LLMs. Paper accepted at BRACIS 2026.
-- **Brazil Literacy** — municipal-level analysis linking literacy rates, basic sanitation coverage, and school infrastructure across Brazil. Currently building an interactive dashboard with dedicated API endpoints per dimension.
-- **3D ASCII Profile Card** — CRT-styled terminal + interactive 3D ASCII renderer in vanilla JS to work as your own portfolio
----
+**The Role of Contextual Grounding in Geoscience Benchmarks**, BRACIS 2026<br>
+Self-conditioned prompting on GeoBench: queries get a structured reasoning layer (domain, geological process, difficulty) before the model answers. Evaluated on 4 open-source LLMs. Joint work with Petrobras and UNISINOS.<br>
+[Code](https://github.com/ArthurFachel/Contextual-Grounding)
 
-### Stack
+**Neuron-level plasticity for continual learning** (ongoing)<br>
+Per-neuron functional importance decides which units stay plastic between tasks, plus activation-level competition. Not a weight-anchoring method like EWC.<br>
+[Code](https://github.com/ArthurFachel/dual-heater-mlp)
 
-**Data**
+## Projects
 
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> Python</code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /> PyTorch</code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> Pandas</code>
-
-**Backend**
-
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /> Flask</code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> MySQL</code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /> Firebase</code>
-
-**Systems**
-
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> C</code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> Java</code>
-
----
-
-### Papers
-
-- *The Role of Contextual Grounding in Geoscience Benchmarks* — BRACIS 2026  
-  [Cick here](https://github.com/ArthurFachel/Contextual-Grounding) · PUCRS / Petrobras / UNISINOS
-
----
-
-### Languages
-
-| Language | Level |
+| Project | What it is |
 |---|---|
-| Portuguese | Native |
-| English | C2  |
-| Finnish | B2 |
+| [pokevault](https://github.com/ArthurFachel/pokevault) | Pokémon TCG collection tracker that runs in the browser: live prices, 30-day trends, multi-currency totals. [Live demo](https://arthurfachel.github.io/pokevault/) |
+| [Literacy-Data](https://github.com/ArthurFachel/Literacy-Data) | Municipal-level analysis linking literacy, sanitation and school infrastructure across Brazil. Flask API + interactive map. |
+| [Lightsail-Hermes](https://github.com/ArthurFachel/Lightsail-Hermes) | Flask + Redis/RQ service that runs an LLM agent over HTTP and Telegram with an orchestrator/subagent split. |
 
----
+## Tools
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/arthur-fachel-801218176">LinkedIn</a> ·
-  <a href="mailto:arthur.nunes6889@gmail.com">Email</a>
-</p>
+Python, PyTorch, pandas, Flask, Redis, JavaScript, C, Java, Go
+
+## Languages
+
+Portuguese (native), English (C2), Finnish (B2)
+
+[LinkedIn](https://www.linkedin.com/in/arthur-fachel-801218176) · [Email](mailto:arthur.nunes6889@gmail.com) · [CV](https://drive.google.com/file/d/1Edj5ch2yZt8-onLfCN5DedI0l8FumCOA/view?usp=sharing)
