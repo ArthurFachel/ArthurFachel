@@ -9,7 +9,7 @@ Self-conditioned prompting on GeoBench: queries get a structured reasoning layer
 [Code](https://github.com/ArthurFachel/Contextual-Grounding)
 
 **Neuron-level plasticity for continual learning** (ongoing)<br>
-Per-neuron functional importance decides which units stay plastic between tasks, plus activation-level competition. Not a weight-anchoring method like EWC.<br>
+Per-neuron functional importance decides which units stay plastic between tasks, plus activation-level competition.<br>
 [Code](https://github.com/ArthurFachel/dual-heater-mlp)
 
 ## Projects
