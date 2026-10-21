@@ -1,6 +1,6 @@
 # Arthur Fachel
 
-Data Analytics student at PUCRS and researcher at MALTA Lab, Porto Alegre. I work on LLM evaluation and continual learning.
+Data Science student at PUCRS and researcher at MALTA Lab, Porto Alegre. I work on LLM evaluation and continual learning.
 
 ## Research
 
