@@ -21,7 +21,7 @@ Per-neuron functional importance decides which units stay plastic between tasks,
 | Project | What it is |
 |---|---|
 | [Pokevault](https://github.com/ArthurFachel/pokevault) | Pokémon TCG collection tracker that runs in the browser: live prices, 30-day trends, multi-currency totals. [Live demo](https://arthurfachel.github.io/pokevault/) |
-| [Lightsail-Hermes](https://github.com/ArthurFachel/Lightsail-Hermes) | Flask + Redis/RQ service that runs an LLM agent over HTTP and Telegram with an orchestrator/subagent split. |
+| [Lightsail-Petrobras](https://github.com/ArthurFachel/Lightsail-Petrobras) | Geoscience agent API that answers questions about sedimentary basins with cited data from a structured GeoDB, built to plug into VR systems or run standalone. MALTA-GEO (PUCRS / Petrobras / UNISINOS). |
 
 ## Tools
 
